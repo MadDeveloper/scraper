@@ -1,6 +1,6 @@
 #NodeJS scraper
 
-#Getting started
+##Getting started
 
 ```console
 git clone https://github.com/MadDeveloper/scraper.git

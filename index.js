@@ -4,7 +4,7 @@ const updater   = new Updater()
 updater
     .start()
     .then( response => {
-        console.log( 'Movies updated!' )
+        console.log( 'Job is done.' )
         process.exit()
     })
     .catch( console.error )
